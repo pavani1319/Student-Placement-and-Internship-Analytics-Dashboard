@@ -61,7 +61,7 @@ This project presents an interactive Power BI dashboard developed to analyze stu
 
 ## 🖼 Dashboard Preview
 
-*(Dashboard image will appear below after updating the README.)*
+![Student Placement Dashboard](Dashboard.png)
 
 ---
 
